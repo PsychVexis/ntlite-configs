@@ -28,7 +28,6 @@
 		<c>alljoyn 'AllJoyn Router Service'</c>
 		<c>appid 'Application Identity Service'</c>
 		<c>appv 'Application Virtualization (App-V)'</c>
-		<c>appxsupport32 'Modern App support - 32 bit'</c>
 		<c>asimov 'Telemetry Client'</c>
 		<c>assembly.net '.NET assembly cache'</c>
 		<c>assignedaccess 'Assigned Access'</c>
@@ -40,7 +39,6 @@
 		<c>azman32 'Authorization Manager - 32 bit'</c>
 		<c>azuread 'Azure Active Directory'</c>
 		<c>backgroundtransfer 'Networking Background Transfer'</c>
-		<c>backup 'Windows Backup'</c>
 		<c>biometricservice 'Windows Biometric Service'</c>
 		<c>branchcacheclient 'BranchCache Client'</c>
 		<c>browserbrokers 'Browser Brokers'</c>
@@ -490,14 +488,7 @@
 		<c>Microsoft.WindowsFeedbackHub 'FeedbackHub'</c>
 		<c>Microsoft.WindowsMaps 'Maps'</c>
 		<c>Microsoft.WindowsSoundRecorder 'SoundRecorder'</c>
-		<c>Microsoft.WindowsStore 'Windows Store'</c>
 		<c>Microsoft.WindowsTerminal 'Terminal'</c>
-		<c>Microsoft.Xbox.TCUI 'Xbox.TCUI'</c>
-		<c>Microsoft.XboxGameCallableUI 'XboxGameCallableUI'</c>
-		<c>Microsoft.XboxGameOverlay 'XboxGameOverlay'</c>
-		<c>Microsoft.XboxGamingOverlay 'XboxGamingOverlay'</c>
-		<c>Microsoft.XboxIdentityProvider 'XboxIdentityProvider'</c>
-		<c>Microsoft.XboxSpeechToTextOverlay 'XboxSpeechToTextOverlay'</c>
 		<c>Microsoft.YourPhone 'YourPhone'</c>
 		<c>Microsoft.ZuneMusic 'ZuneMusic'</c>
 		<c>Microsoft.ZuneVideo 'ZuneVideo'</c>
@@ -678,7 +669,6 @@
 		<c>wpdbusenum 'Portable Device Enumerator Service'</c>
 		<c>wwahost32 'Windows Web App (WWA) Host - 32 bit'</c>
 		<c>wwanautoconfig 'WWAN AutoConfig'</c>
-		<c>xbox 'Xbox App'</c>
 		<c>zipfolder 'Zip &amp; Cab folder'</c>
 	</RemoveComponents>
 	<Compatibility protectHidden="true">
